@@ -1,6 +1,3 @@
-
-
-
 def niaveAlgo(a,b):
     best = 0
     for i in range(a+b):
@@ -12,3 +9,5 @@ def niaveAlgo(a,b):
 
 
 print(niaveAlgo(36,6))
+
+
